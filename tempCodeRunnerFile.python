@@ -1,0 +1,11 @@
+information={
+    "name":"sujeet",
+    "roll":45,
+    "village":"inderwa",
+    "information2":{
+        "name2":"ashish",
+        "roll2":74,
+        "school":"jps"
+    }
+}
+print(information.keys())
